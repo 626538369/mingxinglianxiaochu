@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 61a98c06658a9594ebe1e3c9c1e7a335
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - SimpleTextTP: {instanceID: 0}
+  - EffectCharTP: {instanceID: 0}
+  - TaskEffectTextTP: {instanceID: 0}
+  - BattleEffectTextTP: {instanceID: 0}
+  - LevelUpTP: {instanceID: 0}
+  - RankUpTP: {instanceID: 0}
+  - LevelBorderTP: {instanceID: 0}
+  - MonsterArrowTP: {instanceID: 0}
+  - SneakTP: {instanceID: 0}
+  - AvatarPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

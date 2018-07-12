@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Packages>
+	<Policys>
+		<Policy PlayerType = "0" PolicyCollection="1#2#3" Policy3Num="2" Policy4Num="1" Policy5Num="1"/>
+	</Policys>
+	<Package Level="1">
+		<Asset FileName="assets/artist/particle/tmpparticle/boom1/boom.prefab" />
+		<Asset FileName="assets/artist/particle/tmpparticle/boom1/fairy dust.mat" />
+		<Asset FileName="assets/artist/particle/tmpparticle/boom1/flamed.tif" />
+	</Package>
+	<Package Level="2">
+		<Asset FileName="assets/artist/port/materials/port1f.mat" />
+		<Asset FileName="assets/artist/ship/ship1/materials/ship1b.mat" />
+		<Asset FileName="assets/artist/texture/sky1a.png" />
+	</Package>
+</Packages>

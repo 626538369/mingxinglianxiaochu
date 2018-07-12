@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package ID="0" Name="pkg00" Hierarchy="0" Version="0">
+	<Package ID="0" Name="pkg10" Hierarchy="1" Version="0">
+		<Asset Name="assets/artist/particle/tmpparticle/boom1/boom.prefab" />
+		<Asset Name="assets/artist/particle/tmpparticle/boom1/fairy dust.mat" />
+		<Asset Name="assets/artist/particle/tmpparticle/boom1/flamed.tif" />
+	</Package>
+	<Package ID="1" Name="pkg11" Hierarchy="1" Version="0">
+		<Asset Name="assets/artist/port/materials/port1f.mat" />
+		<Asset Name="assets/artist/ship/ship1/materials/ship1b.mat" />
+		<Asset Name="assets/artist/texture/sky1a.png" />
+	</Package>
+	<Package ID="2" Name="pkg12" Hierarchy="1" Version="0">
+		<Asset Name="assets/artist/water/standardwater/textures/water fallback.jpg" />
+		<Asset Name="assets/artist/water/standardwater/textures/waterbump.jpg" />
+		<Asset Name="assets/artist/water/standardwater/textures/waterbumptest.jpg" />
+	</Package>
+</Package>

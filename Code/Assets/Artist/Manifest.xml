@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Packages>
+	<Package File="00001" Version="0" CreateTime="1337620366977.5">
+		<Asset File="assets/artist/assetpackage.xml" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00002" Version="0" CreateTime="1337192022316.5">
+		<Asset File="assets/artist/assetpri.xml" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00003" Version="0" CreateTime="1337620448785">
+		<Asset File="assets/artist/assetweight.xml" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00004" Version="0" CreateTime="1337620547306">
+		<Asset File="assets/artist/manifest.xml" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00005" Version="0" CreateTime="1335365640312.4">
+		<Asset File="assets/artist/building/materials/build1a.mat" Version="0" FromAsset="">
+			<DependentTexture Asset="assets/artist/texture/build1a.png" PropertyName="_MainTex"/>
+		</Asset>
+
+	</Package>
+
+	<Package File="00006" Version="0" CreateTime="1337613090921.5">
+		<Asset File="assets/artist/level/scenetest222.cs" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00007" Version="0" CreateTime="1335365639075.4">
+		<Asset File="assets/artist/ornament/materials/tree1a.mat" Version="0" FromAsset="">
+			<DependentTexture Asset="assets/artist/texture/tree1a.tga" PropertyName="_MainTex"/>
+		</Asset>
+
+	</Package>
+
+	<Package File="00008" Version="0" CreateTime="1335365647576.4">
+		<Asset File="assets/artist/particle/tmpparticle/boom1/boom.prefab" Version="0" FromAsset="">
+			<DependentMaterial Asset="assets/artist/particle/tmpparticle/boom1/fairy dust.mat" MaterialIndex="0" TransformPath="boom"/>
+		</Asset>
+
+	</Package>
+
+	<Package File="00009" Version="0" CreateTime="1335365647575.4">
+		<Asset File="assets/artist/particle/tmpparticle/boom1/fairy dust.mat" Version="0" FromAsset="">
+			<DependentTexture Asset="assets/artist/particle/tmpparticle/boom1/flamed.tif" PropertyName="_MainTex"/>
+		</Asset>
+
+	</Package>
+
+	<Package File="00010" Version="0" CreateTime="1335365647572.4">
+		<Asset File="assets/artist/particle/tmpparticle/boom1/flamed.tif" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00011" Version="0" CreateTime="1335365646788.4">
+		<Asset File="assets/artist/particle/tmpparticle/dd1/dd.prefab" Version="0" FromAsset="">
+			<DependentMaterial Asset="assets/artist/particle/tmpparticle/dd1/smoke trail.mat" MaterialIndex="0" TransformPath="DD"/>
+		</Asset>
+
+	</Package>
+
+	<Package File="00012" Version="0" CreateTime="1335365646792.4">
+		<Asset File="assets/artist/particle/tmpparticle/dd1/smoke trail.mat" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00013" Version="0" CreateTime="1335365639400.4">
+		<Asset File="assets/artist/port/materials/port1a.mat" Version="0" FromAsset="">
+			<DependentTexture Asset="assets/artist/texture/port1a.png" PropertyName="_MainTex"/>
+		</Asset>
+
+	</Package>
+
+	<Package File="00014" Version="0" CreateTime="1335365639405.4">
+		<Asset File="assets/artist/port/materials/port1b.mat" Version="0" FromAsset="">
+			<DependentTexture Asset="assets/artist/texture/port1b.png" PropertyName="_MainTex"/>
+		</Asset>
+
+	</Package>
+
+	<Package File="00015" Version="0" CreateTime="1335365639410.4">
+		<Asset File="assets/artist/port/materials/port1c.mat" Version="0" FromAsset="">
+			<DependentTexture Asset="assets/artist/texture/port1c.png" PropertyName="_MainTex"/>
+		</Asset>
+
+	</Package>
+
+	<Package File="00016" Version="0" CreateTime="1335365639412.4">
+		<Asset File="assets/artist/port/materials/port1e.mat" Version="0" FromAsset="">
+			<DependentTexture Asset="assets/artist/texture/port1e.png" PropertyName="_MainTex"/>
+		</Asset>
+
+	</Package>
+
+	<Package File="00017" Version="0" CreateTime="1335365639416.4">
+		<Asset File="assets/artist/port/materials/port1f.mat" Version="0" FromAsset="">
+			<DependentTexture Asset="assets/artist/texture/port1f.png" PropertyName="_MainTex"/>
+		</Asset>
+
+	</Package>
+
+	<Package File="00018" Version="0" CreateTime="1335365639421.4">
+		<Asset File="assets/artist/port/materials/port1h.mat" Version="0" FromAsset="">
+			<DependentTexture Asset="assets/artist/texture/port1h.png" PropertyName="_MainTex"/>
+		</Asset>
+
+	</Package>
+
+	<Package File="00019" Version="0" CreateTime="1335454758400.4">
+		<Asset File="assets/artist/prefab/test/building.prefab" Version="0" FromAsset="">
+			<DependentMaterial Asset="assets/artist/building/materials/build1a.mat" MaterialIndex="0" TransformPath="building"/>
+		</Asset>
+
+	</Package>
+
+	<Package File="00020" Version="0" CreateTime="1335454758384.4">
+		<Asset File="assets/artist/prefab/test/ship1.prefab" Version="0" FromAsset="">
+			<DependentMaterial Asset="assets/artist/ship/ship1/materials/ship1a.mat" MaterialIndex="0" TransformPath="Ship1/ship1"/>
+			<DependentMaterial Asset="assets/artist/ship/ship1/materials/ship1b.mat" MaterialIndex="1" TransformPath="Ship1/ship1"/>
+			<DependentMaterial Asset="assets/artist/ship/ship1/materials/material #39.mat" MaterialIndex="2" TransformPath="Ship1/ship1"/>
+			<DependentMaterial Asset="assets/artist/ship/ship1/materials/material #38.mat" MaterialIndex="3" TransformPath="Ship1/ship1"/>
+			<DependentMaterial Asset="assets/artist/ship/ship1/materials/material #40.mat" MaterialIndex="4" TransformPath="Ship1/ship1"/>
+			<DependentMaterial Asset="assets/artist/ship/ship1/materials/material #37.mat" MaterialIndex="5" TransformPath="Ship1/ship1"/>
+			<DependentMaterial Asset="assets/artist/ship/ship1/materials/ship1a.mat" MaterialIndex="0" TransformPath="Ship1/ship2"/>
+			<DependentMaterial Asset="assets/artist/ship/ship1/materials/ship1b.mat" MaterialIndex="1" TransformPath="Ship1/ship2"/>
+			<DependentMaterial Asset="assets/artist/ship/ship1/materials/material #39.mat" MaterialIndex="2" TransformPath="Ship1/ship2"/>
+			<DependentMaterial Asset="assets/artist/ship/ship1/materials/material #38.mat" MaterialIndex="3" TransformPath="Ship1/ship2"/>
+			<DependentMaterial Asset="assets/artist/ship/ship1/materials/material #40.mat" MaterialIndex="4" TransformPath="Ship1/ship2"/>
+			<DependentMaterial Asset="assets/artist/ship/ship1/materials/material #37.mat" MaterialIndex="5" TransformPath="Ship1/ship2"/>
+		</Asset>
+
+	</Package>
+
+	<Package File="00021" Version="0" CreateTime="1335454758411.4">
+		<Asset File="assets/artist/prefab/test/tree.prefab" Version="0" FromAsset="">
+			<DependentMaterial Asset="assets/artist/ornament/materials/tree1a.mat" MaterialIndex="0" TransformPath="tree"/>
+		</Asset>
+
+	</Package>
+
+	<Package File="00022" Version="0" CreateTime="1336126239945">
+		<Asset File="assets/artist/ship/ship1/materials/material #37.mat" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00023" Version="0" CreateTime="1335365650094.4">
+		<Asset File="assets/artist/ship/ship1/materials/material #38.mat" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00024" Version="0" CreateTime="1335365650096.4">
+		<Asset File="assets/artist/ship/ship1/materials/material #39.mat" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00025" Version="0" CreateTime="1335365650085.4">
+		<Asset File="assets/artist/ship/ship1/materials/material #40.mat" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00026" Version="0" CreateTime="1335365650098.4">
+		<Asset File="assets/artist/ship/ship1/materials/material #86.mat" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00027" Version="0" CreateTime="1335365650099.4">
+		<Asset File="assets/artist/ship/ship1/materials/material #87.mat" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00028" Version="0" CreateTime="1335365650101.4">
+		<Asset File="assets/artist/ship/ship1/materials/material #88.mat" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00029" Version="0" CreateTime="1335365650103.4">
+		<Asset File="assets/artist/ship/ship1/materials/material #89.mat" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00030" Version="0" CreateTime="1335365650105.4">
+		<Asset File="assets/artist/ship/ship1/materials/ship1a.mat" Version="0" FromAsset="">
+			<DependentTexture Asset="assets/artist/ship/texture/ship1a.png" PropertyName="_MainTex"/>
+		</Asset>
+
+	</Package>
+
+	<Package File="00031" Version="0" CreateTime="1335365650107.4">
+		<Asset File="assets/artist/ship/ship1/materials/ship1b.mat" Version="0" FromAsset="">
+			<DependentTexture Asset="assets/artist/ship/texture/ship1b.png" PropertyName="_MainTex"/>
+		</Asset>
+
+	</Package>
+
+	<Package File="00032" Version="0" CreateTime="1335365649718.4">
+		<Asset File="assets/artist/ship/texture/ship1a.png" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00033" Version="0" CreateTime="1335365649722.4">
+		<Asset File="assets/artist/ship/texture/ship1b.png" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00034" Version="0" CreateTime="1335365650472.4">
+		<Asset File="assets/artist/sky/materials/sky1a.mat" Version="0" FromAsset="">
+			<DependentTexture Asset="assets/artist/texture/sky1a.png" PropertyName="_MainTex"/>
+		</Asset>
+
+	</Package>
+
+	<Package File="00035" Version="0" CreateTime="1335365646717.4">
+		<Asset File="assets/artist/texture/build1a.png" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00036" Version="0" CreateTime="1335365646702.4">
+		<Asset File="assets/artist/texture/port1a.png" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00037" Version="0" CreateTime="1335365646704.4">
+		<Asset File="assets/artist/texture/port1b.png" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00038" Version="0" CreateTime="1335365646707.4">
+		<Asset File="assets/artist/texture/port1c.png" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00039" Version="0" CreateTime="1335365646709.4">
+		<Asset File="assets/artist/texture/port1e.png" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00040" Version="0" CreateTime="1335365646712.4">
+		<Asset File="assets/artist/texture/port1f.png" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00041" Version="0" CreateTime="1335365646713.4">
+		<Asset File="assets/artist/texture/port1h.png" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00042" Version="0" CreateTime="1335365646719.4">
+		<Asset File="assets/artist/texture/sky1a.png" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00043" Version="0" CreateTime="1335365646706.4">
+		<Asset File="assets/artist/texture/tree1a.tga" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00044" Version="0" CreateTime="1335365646699.4">
+		<Asset File="assets/artist/texture/water1a.png" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00045" Version="0" CreateTime="1335365631770.4">
+		<Asset File="assets/artist/water/materials/water1a.mat" Version="0" FromAsset="">
+			<DependentTexture Asset="assets/artist/texture/water1a.png" PropertyName="_MainTex"/>
+		</Asset>
+
+	</Package>
+
+	<Package File="00046" Version="0" CreateTime="1335365639015.4">
+		<Asset File="assets/artist/water/standardwater/daylight simple water.prefab" Version="0" FromAsset="">
+			<DependentMaterial Asset="assets/artist/water/standardwater/materials/daylight simple water.mat" MaterialIndex="0" TransformPath="Daylight Simple Water"/>
+		</Asset>
+
+	</Package>
+
+	<Package File="00047" Version="0" CreateTime="1335365639017.4">
+		<Asset File="assets/artist/water/standardwater/nighttime simple water.prefab" Version="0" FromAsset="">
+			<DependentMaterial Asset="assets/artist/water/standardwater/materials/nighttime simple water.mat" MaterialIndex="0" TransformPath="Nighttime Simple Water"/>
+		</Asset>
+
+	</Package>
+
+	<Package File="00048" Version="0" CreateTime="1335365631826.4">
+		<Asset File="assets/artist/water/standardwater/materials/daylight simple water.mat" Version="0" FromAsset="">
+			<DependentTexture Asset="assets/artist/water/standardwater/textures/waterbump.jpg" PropertyName="_MainTex"/>
+			<DependentTexture Asset="assets/artist/water/standardwater/textures/water fallback.jpg" PropertyName="_BumpMap"/>
+		</Asset>
+
+	</Package>
+
+	<Package File="00049" Version="0" CreateTime="1335365631827.4">
+		<Asset File="assets/artist/water/standardwater/materials/nighttime simple water.mat" Version="0" FromAsset="">
+			<DependentTexture Asset="assets/artist/water/standardwater/textures/water fallback.jpg" PropertyName="_MainTex"/>
+			<DependentTexture Asset="assets/artist/water/standardwater/textures/waterbump.jpg" PropertyName="_BumpMap"/>
+		</Asset>
+
+	</Package>
+
+	<Package File="00050" Version="0" CreateTime="1335365638960.4">
+		<Asset File="assets/artist/water/standardwater/objects/materials/water plane-lambert1.mat" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00051" Version="0" CreateTime="1337191943831.5">
+		<Asset File="assets/artist/water/standardwater/scripts/watersimple.cs" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00052" Version="0" CreateTime="1335365638999.4">
+		<Asset File="assets/artist/water/standardwater/shaders/fx-water simple.shader" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00053" Version="0" CreateTime="1335365638694.4">
+		<Asset File="assets/artist/water/standardwater/textures/nightgradient cubemap.psd" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00054" Version="0" CreateTime="1335365638700.4">
+		<Asset File="assets/artist/water/standardwater/textures/nightgradient.psd" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00055" Version="0" CreateTime="1335365638687.4">
+		<Asset File="assets/artist/water/standardwater/textures/oceangradient.psd" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00056" Version="0" CreateTime="1335365638684.4">
+		<Asset File="assets/artist/water/standardwater/textures/oceangradientcube.psd" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00057" Version="0" CreateTime="1335365638690.4">
+		<Asset File="assets/artist/water/standardwater/textures/smallwavesmap.png" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00058" Version="0" CreateTime="1335365638676.4">
+		<Asset File="assets/artist/water/standardwater/textures/water fallback.jpg" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00059" Version="0" CreateTime="1335365638679.4">
+		<Asset File="assets/artist/water/standardwater/textures/waterbump.jpg" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00060" Version="0" CreateTime="1335365638682.4">
+		<Asset File="assets/artist/water/standardwater/textures/waterbumptest.jpg" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+</Packages>

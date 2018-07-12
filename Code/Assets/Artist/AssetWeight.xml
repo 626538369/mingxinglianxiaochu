@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RootNode>
+	<TaskNood ID="0">
+		<Asset Name="pkg00" Value="100"/>
+		
+		<Asset Name="pkg10" Value="50"/>
+		<Asset Name="pkg11" Value="30"/>
+		<Asset Name="pkg12" Value="20"/>
+	</TaskNood>
+	<TaskNood ID="1">
+		<Asset Name="pkg00" Value="100"/>
+		
+		<Asset Name="pkg10" Value="50"/>
+		<Asset Name="pkg11" Value="30"/>
+		<Asset Name="pkg12" Value="20"/>
+	</TaskNood>
+</RootNode>

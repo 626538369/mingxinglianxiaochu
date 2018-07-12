@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Packages>
+	<Package File="00001" Version="0">
+		<Asset File="assets/res/manifest.xml" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00002" Version="0">
+		<Asset File="assets/res/map/start.unity" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00003" Version="0">
+		<Asset File="assets/res/prefab/ship1.prefab" Version="0" FromAsset="">
+			<DependentMaterial Asset="assets/res/ship/ship1/materials/ship1a.mat" MaterialIndex="0" TransformPath="Ship1/ship1"/>
+			<DependentMaterial Asset="assets/res/ship/ship1/materials/ship1b.mat" MaterialIndex="1" TransformPath="Ship1/ship1"/>
+			<DependentMaterial Asset="assets/res/ship/ship1/materials/material #39.mat" MaterialIndex="2" TransformPath="Ship1/ship1"/>
+			<DependentMaterial Asset="assets/res/ship/ship1/materials/material #38.mat" MaterialIndex="3" TransformPath="Ship1/ship1"/>
+			<DependentMaterial Asset="assets/res/ship/ship1/materials/material #40.mat" MaterialIndex="4" TransformPath="Ship1/ship1"/>
+			<DependentMaterial Asset="assets/res/ship/ship1/materials/material #37.mat" MaterialIndex="5" TransformPath="Ship1/ship1"/>
+			<DependentAnimation Asset="assets/res/ship/ship1/ship1.fbx" AnimationName="Move" TransformPath="Ship1/ship1"/>
+			<DependentAnimation Asset="assets/res/ship/ship1/ship1.fbx" AnimationName="Fire" TransformPath="Ship1/ship1"/>
+		</Asset>
+
+	</Package>
+
+	<Package File="00004" Version="0">
+		<Asset File="assets/res/ship/ship1/ship1.fbx" Version="0" FromAsset="">
+			<DependentMaterial Asset="assets/res/ship/ship1/materials/ship1a.mat" MaterialIndex="0" TransformPath="ship1"/>
+			<DependentMaterial Asset="assets/res/ship/ship1/materials/ship1b.mat" MaterialIndex="1" TransformPath="ship1"/>
+			<DependentMaterial Asset="assets/res/ship/ship1/materials/material #39.mat" MaterialIndex="2" TransformPath="ship1"/>
+			<DependentMaterial Asset="assets/res/ship/ship1/materials/material #38.mat" MaterialIndex="3" TransformPath="ship1"/>
+			<DependentMaterial Asset="assets/res/ship/ship1/materials/material #40.mat" MaterialIndex="4" TransformPath="ship1"/>
+			<DependentMaterial Asset="assets/res/ship/ship1/materials/material #37.mat" MaterialIndex="5" TransformPath="ship1"/>
+			<DependentAnimation Asset="assets/res/ship/ship1/ship1 Move" AnimationName="Move" TransformPath="ship1"/>
+			<DependentAnimation Asset="assets/res/ship/ship1/ship1 Fire" AnimationName="Fire" TransformPath="ship1"/>
+		</Asset>
+
+	</Package>
+
+	<Package File="00005" Version="0">
+		<Asset File="assets/res/ship/ship1/materials/material #37.mat" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00006" Version="0">
+		<Asset File="assets/res/ship/ship1/materials/material #38.mat" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00007" Version="0">
+		<Asset File="assets/res/ship/ship1/materials/material #39.mat" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00008" Version="0">
+		<Asset File="assets/res/ship/ship1/materials/material #40.mat" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00009" Version="0">
+		<Asset File="assets/res/ship/ship1/materials/material #86.mat" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00010" Version="0">
+		<Asset File="assets/res/ship/ship1/materials/material #87.mat" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00011" Version="0">
+		<Asset File="assets/res/ship/ship1/materials/material #88.mat" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00012" Version="0">
+		<Asset File="assets/res/ship/ship1/materials/material #89.mat" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00013" Version="0">
+		<Asset File="assets/res/ship/ship1/materials/ship1a.mat" Version="0" FromAsset="">
+			<DependentTexture Asset="assets/res/ship/texture/ship1a.png" PropertyName="_MainTex"/>
+		</Asset>
+
+	</Package>
+
+	<Package File="00014" Version="0">
+		<Asset File="assets/res/ship/ship1/materials/ship1b.mat" Version="0" FromAsset="">
+			<DependentTexture Asset="assets/res/ship/texture/ship1b.png" PropertyName="_MainTex"/>
+		</Asset>
+
+	</Package>
+
+	<Package File="00015" Version="0">
+		<Asset File="assets/res/ship/texture/ship1a.png" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00016" Version="0">
+		<Asset File="assets/res/ship/texture/ship1b.png" Version="0" FromAsset="">
+		</Asset>
+
+	</Package>
+
+	<Package File="00017" Version="0">
+		<Asset File="assets/res/ship/ship1/ship1 Move" Version="0" FromAsset="assets/res/ship/ship1/ship1.fbx">
+		</Asset>
+
+	</Package>
+
+	<Package File="00018" Version="0">
+		<Asset File="assets/res/ship/ship1/ship1 Fire" Version="0" FromAsset="assets/res/ship/ship1/ship1.fbx">
+		</Asset>
+
+	</Package>
+
+</Packages>
